@@ -1,0 +1,12 @@
+#category-title{
+    font-family: monospace;
+    font-size: 20px;
+    color: goldenrod;
+}
+#Category-header{
+  background: gray;
+  font-family: fantasy;
+}
+.CommentBlock{
+  background-color: #d5d7da;
+}
